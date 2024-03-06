@@ -7,7 +7,7 @@ You can clone/copy this project and edit it with your own content, or use it as 
 
 In this project, the Docsy theme is pulled in as a Hugo module, together with
 its dependencies:
-
+.....
 ```console
 $ hugo mod graph
 ...
